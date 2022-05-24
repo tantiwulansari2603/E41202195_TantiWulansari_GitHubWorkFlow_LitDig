@@ -11,8 +11,8 @@ class ChartModel {
 
 final List<ChartModel> items = [
   ChartModel(
-      name: 'Jefri Nicol',
-      message: 'Hello Taan',
+      name: 'Jefri Nicole',
+      message: 'Dah Makan Tan??',
       time: '08.00',
       profileUrl:
           'https://obs.line-scdn.net/0h9jY97ARhZkVkQE_muf8ZEl4WZSpXLHVGAHY3WzQuOHEeIiRGWXIgK0dGbSJMdiEbDSUtI0hCfXQccSBEXnMg/w1200'),
