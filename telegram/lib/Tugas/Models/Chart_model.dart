@@ -17,8 +17,8 @@ final List<ChartModel> items = [
       profileUrl:
           'https://obs.line-scdn.net/0h9jY97ARhZkVkQE_muf8ZEl4WZSpXLHVGAHY3WzQuOHEeIiRGWXIgK0dGbSJMdiEbDSUtI0hCfXQccSBEXnMg/w1200'),
   ChartModel(
-      name: 'Iqbal Ramadhan',
-      message: 'Lagi apa??',
+      name: 'Sayangku',
+      message: 'lagi ngapain yang?',
       time: '9 march',
       profileUrl:
           'https://akcdn.detik.net.id/community/media/visual/2020/02/13/050ffc54-66be-464c-81c8-12c861c1864e_43.jpeg?w=700&q=90'),
