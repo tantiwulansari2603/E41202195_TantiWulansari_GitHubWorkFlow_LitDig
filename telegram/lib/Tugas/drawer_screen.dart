@@ -47,7 +47,7 @@ class _DrawwerScreenState extends State<DrawerScreen> {
           ),
           DrawerListTile(
             iconData: Icons.phone,
-            title: "Calls",
+            title: "Phone",
             onTilePressed: () {},
           ),
         ],
